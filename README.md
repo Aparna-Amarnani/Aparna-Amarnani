@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aparna-Amarnani
-- 👀 I’m interested in Web development,Machine learning,Artificial Intelligence and competitive coding
-- 🌱 I’m currently learning web development and machine learning
+- 👀 I’m interested in Web development, Object Oriented Languages and competitive coding
+- 🌱 I’m currently learning web development 
 - ✨ I like to code in C, C++ and Java
 <!---
 Aparna-Amarnani/Aparna-Amarnani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
